@@ -1,0 +1,1 @@
+This project provides a resource adapter for Drools 5.1.0.
